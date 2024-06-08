@@ -1,20 +1,20 @@
-👋 Hi, I'm Shoheb Kazi!
+•	👋 Hi, I'm Shoheb Kazi!
 
-🔭 I’m currently working on developing dynamic web applications using PHP, MySQL, JavaScript, HTML, and CSS.
+•	🔭 I’m currently working on developing dynamic web applications using PHP, MySQL, JavaScript, HTML, and CSS.
 
-🌱 I’m currently learning advanced techniques in Laravel and exploring new front-end frameworks like React.
+•	🌱 I’m currently learning advanced techniques in Laravel and exploring new front-end frameworks like React.
 
-👯 I’m looking to collaborate on innovative web development projects.
+•	👯 I’m looking to collaborate on innovative web development projects.
 
-🤔 I’m looking for help with optimizing database performance and security.
+•	🤔 I’m looking for help with optimizing database performance and security.
 
-💬 Ask me about full stack development, especially using PHP and MySQL.
+•	💬 Ask me about full stack development, especially using PHP and MySQL.
 
-📫 How to reach me: shohebkazi456@gmail.com
+•	📫 How to reach me: shohebkazi456@gmail.com
 
-😄 Pronouns: He/Him
+•	😄 Pronouns: He/Him
 
-⚡ Fun fact: I love playing cricket and swimming in my free time.
+•	⚡ Fun fact: I love playing cricket and swimming in my free time.
 
 
 <!--👋 Hi, I'm Shoheb Kazi!
