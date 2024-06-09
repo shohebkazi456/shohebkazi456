@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **developing dynamic web applications using PHP, MySQL, CodeIgniter, Laravel, JavaScript, HTML, CSS, jQuery, Anugular JS and Bootstrap**
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python, Flutter, Dart and React**
 
 - 🤝 I’m looking for help with **with advanced algorithms and data structures to improve my coding efficiency**
 
-- 💬 Ask me about **Web Development, Android**
+- 💬 Ask me about **Web Development and Android Development**
 
 - 📫 How to reach me **shohebkazi456@gmail.com**
 
